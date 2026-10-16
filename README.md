@@ -169,5 +169,5 @@ The interactive dashboards help analyze customers across different age groups, g
 Overall, the project demonstrates how Power BI can transform raw banking transaction data into meaningful visualizations and business insights that support customer analysis and data-driven decision-making.
 
 
-- **Power BI Dashboard:** [Download the Bank Customer Segmentation Dashboard (.pbix)](https://drive.google.com/file/d/1JdBb1XRHDmR5MXJDQEGAKFmX9aliOB6D/view?usp=sharing)
+- **Power BI Dashboard:** (https://drive.google.com/file/d/1JdBb1XRHDmR5MXJDQEGAKFmX9aliOB6D/view?usp=sharing)
 
